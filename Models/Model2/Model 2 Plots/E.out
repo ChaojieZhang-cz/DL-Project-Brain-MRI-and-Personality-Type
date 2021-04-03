@@ -1,0 +1,403 @@
+model5_test2
+Epoch: 0/99
+----------
+Phase:train, epoch loss: 1.2919 Acc: 0.4215
+Phase:validate, epoch loss: 1.0103 Acc: 0.4685
+Epoch: 1/99
+----------
+Phase:train, epoch loss: 1.0773 Acc: 0.4290
+Phase:validate, epoch loss: 1.0110 Acc: 0.4685
+Epoch: 2/99
+----------
+Phase:train, epoch loss: 1.0563 Acc: 0.4529
+Phase:validate, epoch loss: 1.0208 Acc: 0.3919
+Epoch: 3/99
+----------
+Phase:train, epoch loss: 1.0458 Acc: 0.4320
+Phase:validate, epoch loss: 0.9991 Acc: 0.4685
+Epoch: 4/99
+----------
+Phase:train, epoch loss: 1.0424 Acc: 0.4275
+Phase:validate, epoch loss: 0.9992 Acc: 0.4595
+Epoch: 5/99
+----------
+Phase:train, epoch loss: 1.0465 Acc: 0.4141
+Phase:validate, epoch loss: 1.0285 Acc: 0.3919
+Epoch: 6/99
+----------
+Phase:train, epoch loss: 1.0380 Acc: 0.4260
+Phase:validate, epoch loss: 1.0218 Acc: 0.4685
+Epoch: 7/99
+----------
+Phase:train, epoch loss: 1.0362 Acc: 0.4335
+Phase:validate, epoch loss: 1.0345 Acc: 0.3919
+Epoch: 8/99
+----------
+Phase:train, epoch loss: 1.0370 Acc: 0.4245
+Phase:validate, epoch loss: 1.0172 Acc: 0.3919
+Epoch: 9/99
+----------
+Phase:train, epoch loss: 1.0358 Acc: 0.4155
+Phase:validate, epoch loss: 0.9983 Acc: 0.4685
+Epoch: 10/99
+----------
+Phase:train, epoch loss: 1.0353 Acc: 0.4320
+Phase:validate, epoch loss: 0.9990 Acc: 0.4685
+Epoch: 11/99
+----------
+Phase:train, epoch loss: 1.0312 Acc: 0.4365
+Phase:validate, epoch loss: 1.0244 Acc: 0.4685
+Epoch: 12/99
+----------
+Phase:train, epoch loss: 1.0322 Acc: 0.4290
+Phase:validate, epoch loss: 0.9999 Acc: 0.4685
+Epoch: 13/99
+----------
+Phase:train, epoch loss: 1.0299 Acc: 0.4245
+Phase:validate, epoch loss: 0.9976 Acc: 0.4685
+Epoch: 14/99
+----------
+Phase:train, epoch loss: 1.0309 Acc: 0.4081
+Phase:validate, epoch loss: 0.9988 Acc: 0.4685
+Epoch: 15/99
+----------
+Phase:train, epoch loss: 1.0228 Acc: 0.4649
+Phase:validate, epoch loss: 0.9971 Acc: 0.4640
+Epoch: 16/99
+----------
+Phase:train, epoch loss: 1.0260 Acc: 0.4425
+Phase:validate, epoch loss: 0.9961 Acc: 0.4685
+Epoch: 17/99
+----------
+Phase:train, epoch loss: 1.0245 Acc: 0.4395
+Phase:validate, epoch loss: 1.0036 Acc: 0.4685
+Epoch: 18/99
+----------
+Phase:train, epoch loss: 1.0222 Acc: 0.4395
+Phase:validate, epoch loss: 0.9981 Acc: 0.4775
+Epoch: 19/99
+----------
+Phase:train, epoch loss: 1.0214 Acc: 0.4275
+Phase:validate, epoch loss: 1.0077 Acc: 0.4640
+Epoch: 20/99
+----------
+Phase:train, epoch loss: 1.0168 Acc: 0.4230
+Phase:validate, epoch loss: 0.9973 Acc: 0.4685
+Epoch: 21/99
+----------
+Phase:train, epoch loss: 1.0132 Acc: 0.4454
+Phase:validate, epoch loss: 1.0053 Acc: 0.4865
+Epoch: 22/99
+----------
+Phase:train, epoch loss: 0.9998 Acc: 0.4380
+Phase:validate, epoch loss: 1.0283 Acc: 0.4009
+Epoch: 23/99
+----------
+Phase:train, epoch loss: 1.0061 Acc: 0.4514
+Phase:validate, epoch loss: 1.0100 Acc: 0.3919
+Epoch: 24/99
+----------
+Phase:train, epoch loss: 0.9892 Acc: 0.4694
+Phase:validate, epoch loss: 1.2930 Acc: 0.1622
+Epoch: 25/99
+----------
+Phase:train, epoch loss: 0.9730 Acc: 0.4649
+Phase:validate, epoch loss: 1.0101 Acc: 0.4775
+Epoch: 26/99
+----------
+Phase:train, epoch loss: 0.9630 Acc: 0.4933
+Phase:validate, epoch loss: 1.0833 Acc: 0.4685
+Epoch: 27/99
+----------
+Phase:train, epoch loss: 0.9389 Acc: 0.5067
+Phase:validate, epoch loss: 1.0498 Acc: 0.4685
+Epoch: 28/99
+----------
+Phase:train, epoch loss: 0.9197 Acc: 0.4903
+Phase:validate, epoch loss: 1.0343 Acc: 0.4730
+Epoch: 29/99
+----------
+Phase:train, epoch loss: 0.8984 Acc: 0.5007
+Phase:validate, epoch loss: 1.2711 Acc: 0.2432
+Epoch: 30/99
+----------
+Phase:train, epoch loss: 0.8734 Acc: 0.5232
+Phase:validate, epoch loss: 1.0545 Acc: 0.3874
+Epoch: 31/99
+----------
+Phase:train, epoch loss: 0.8371 Acc: 0.5665
+Phase:validate, epoch loss: 1.1514 Acc: 0.3153
+Epoch: 32/99
+----------
+Phase:train, epoch loss: 0.8258 Acc: 0.5650
+Phase:validate, epoch loss: 1.1921 Acc: 0.3423
+Epoch: 33/99
+----------
+Phase:train, epoch loss: 0.7872 Acc: 0.5919
+Phase:validate, epoch loss: 1.1958 Acc: 0.3739
+Epoch: 34/99
+----------
+Phase:train, epoch loss: 0.7127 Acc: 0.6218
+Phase:validate, epoch loss: 1.2790 Acc: 0.4595
+Epoch: 35/99
+----------
+Phase:train, epoch loss: 0.6999 Acc: 0.6577
+Phase:validate, epoch loss: 1.3405 Acc: 0.4234
+Epoch: 36/99
+----------
+Phase:train, epoch loss: 0.6650 Acc: 0.6562
+Phase:validate, epoch loss: 1.5246 Acc: 0.3198
+Epoch: 37/99
+----------
+Phase:train, epoch loss: 0.6378 Acc: 0.6846
+Phase:validate, epoch loss: 2.0535 Acc: 0.2432
+Epoch: 38/99
+----------
+Phase:train, epoch loss: 0.5968 Acc: 0.7205
+Phase:validate, epoch loss: 1.5026 Acc: 0.3423
+Epoch: 39/99
+----------
+Phase:train, epoch loss: 0.5548 Acc: 0.7309
+Phase:validate, epoch loss: 3.2808 Acc: 0.1847
+Epoch: 40/99
+----------
+Phase:train, epoch loss: 0.5492 Acc: 0.7339
+Phase:validate, epoch loss: 2.0405 Acc: 0.2613
+Epoch: 41/99
+----------
+Phase:train, epoch loss: 0.4350 Acc: 0.8012
+Phase:validate, epoch loss: 2.8512 Acc: 0.2613
+Epoch: 42/99
+----------
+Phase:train, epoch loss: 0.4196 Acc: 0.8281
+Phase:validate, epoch loss: 2.1878 Acc: 0.4550
+Epoch: 43/99
+----------
+Phase:train, epoch loss: 0.4280 Acc: 0.8341
+Phase:validate, epoch loss: 2.1454 Acc: 0.3604
+Epoch: 44/99
+----------
+Phase:train, epoch loss: 0.3750 Acc: 0.8430
+Phase:validate, epoch loss: 2.0430 Acc: 0.3514
+Epoch: 45/99
+----------
+Phase:train, epoch loss: 0.2949 Acc: 0.8969
+Phase:validate, epoch loss: 2.3702 Acc: 0.5225
+Epoch: 46/99
+----------
+Phase:train, epoch loss: 0.3098 Acc: 0.8774
+Phase:validate, epoch loss: 2.2087 Acc: 0.4189
+Epoch: 47/99
+----------
+Phase:train, epoch loss: 0.2492 Acc: 0.9058
+Phase:validate, epoch loss: 2.9960 Acc: 0.3784
+Epoch: 48/99
+----------
+Phase:train, epoch loss: 0.2050 Acc: 0.9283
+Phase:validate, epoch loss: 2.9001 Acc: 0.3694
+Epoch: 49/99
+----------
+Phase:train, epoch loss: 0.2672 Acc: 0.8849
+Phase:validate, epoch loss: 2.9198 Acc: 0.4595
+Epoch: 50/99
+----------
+Phase:train, epoch loss: 0.2423 Acc: 0.9178
+Phase:validate, epoch loss: 2.7194 Acc: 0.3423
+Epoch: 51/99
+----------
+Phase:train, epoch loss: 0.1880 Acc: 0.9297
+Phase:validate, epoch loss: 3.2028 Acc: 0.4595
+Epoch: 52/99
+----------
+Phase:train, epoch loss: 0.2559 Acc: 0.8969
+Phase:validate, epoch loss: 2.6489 Acc: 0.4595
+Epoch: 53/99
+----------
+Phase:train, epoch loss: 0.1777 Acc: 0.9297
+Phase:validate, epoch loss: 2.6505 Acc: 0.4685
+Epoch: 54/99
+----------
+Phase:train, epoch loss: 0.1321 Acc: 0.9537
+Phase:validate, epoch loss: 3.7160 Acc: 0.3333
+Epoch: 55/99
+----------
+Phase:train, epoch loss: 0.0599 Acc: 0.9821
+Phase:validate, epoch loss: 3.2982 Acc: 0.4144
+Epoch: 56/99
+----------
+Phase:train, epoch loss: 0.0223 Acc: 0.9925
+Phase:validate, epoch loss: 3.5109 Acc: 0.4144
+Epoch: 57/99
+----------
+Phase:train, epoch loss: 0.0575 Acc: 0.9851
+Phase:validate, epoch loss: 2.7419 Acc: 0.4234
+Epoch: 58/99
+----------
+Phase:train, epoch loss: 0.1080 Acc: 0.9611
+Phase:validate, epoch loss: 3.3874 Acc: 0.4054
+Epoch: 59/99
+----------
+Phase:train, epoch loss: 0.0140 Acc: 0.9985
+Phase:validate, epoch loss: 3.6220 Acc: 0.4369
+Epoch: 60/99
+----------
+Phase:train, epoch loss: 0.0028 Acc: 1.0000
+Phase:validate, epoch loss: 3.8532 Acc: 0.4324
+Epoch: 61/99
+----------
+Phase:train, epoch loss: 0.0018 Acc: 1.0000
+Phase:validate, epoch loss: 3.9380 Acc: 0.4054
+Epoch: 62/99
+----------
+Phase:train, epoch loss: 0.0013 Acc: 1.0000
+Phase:validate, epoch loss: 3.9660 Acc: 0.4279
+Epoch: 63/99
+----------
+Phase:train, epoch loss: 0.0011 Acc: 1.0000
+Phase:validate, epoch loss: 4.1915 Acc: 0.3874
+Epoch: 64/99
+----------
+Phase:train, epoch loss: 0.0010 Acc: 1.0000
+Phase:validate, epoch loss: 4.1133 Acc: 0.4279
+Epoch: 65/99
+----------
+Phase:train, epoch loss: 0.0008 Acc: 1.0000
+Phase:validate, epoch loss: 4.0704 Acc: 0.4189
+Epoch: 66/99
+----------
+Phase:train, epoch loss: 0.0007 Acc: 1.0000
+Phase:validate, epoch loss: 4.2209 Acc: 0.4189
+Epoch: 67/99
+----------
+Phase:train, epoch loss: 0.0006 Acc: 1.0000
+Phase:validate, epoch loss: 4.1625 Acc: 0.4279
+Epoch: 68/99
+----------
+Phase:train, epoch loss: 0.0006 Acc: 1.0000
+Phase:validate, epoch loss: 3.9757 Acc: 0.4279
+Epoch: 69/99
+----------
+Phase:train, epoch loss: 0.0005 Acc: 1.0000
+Phase:validate, epoch loss: 4.3482 Acc: 0.4189
+Epoch: 70/99
+----------
+Phase:train, epoch loss: 0.0005 Acc: 1.0000
+Phase:validate, epoch loss: 4.3797 Acc: 0.4234
+Epoch: 71/99
+----------
+Phase:train, epoch loss: 0.0004 Acc: 1.0000
+Phase:validate, epoch loss: 4.4558 Acc: 0.4144
+Epoch: 72/99
+----------
+Phase:train, epoch loss: 0.0004 Acc: 1.0000
+Phase:validate, epoch loss: 4.5333 Acc: 0.4054
+Epoch: 73/99
+----------
+Phase:train, epoch loss: 0.0004 Acc: 1.0000
+Phase:validate, epoch loss: 4.4385 Acc: 0.4189
+Epoch: 74/99
+----------
+Phase:train, epoch loss: 0.0003 Acc: 1.0000
+Phase:validate, epoch loss: 4.6389 Acc: 0.4099
+Epoch: 75/99
+----------
+Phase:train, epoch loss: 0.0003 Acc: 1.0000
+Phase:validate, epoch loss: 4.4605 Acc: 0.4144
+Epoch: 76/99
+----------
+Phase:train, epoch loss: 0.0003 Acc: 1.0000
+Phase:validate, epoch loss: 4.4668 Acc: 0.4144
+Epoch: 77/99
+----------
+Phase:train, epoch loss: 0.0003 Acc: 1.0000
+Phase:validate, epoch loss: 4.3710 Acc: 0.4234
+Epoch: 78/99
+----------
+Phase:train, epoch loss: 0.0003 Acc: 1.0000
+Phase:validate, epoch loss: 4.7276 Acc: 0.4144
+Epoch: 79/99
+----------
+Phase:train, epoch loss: 0.0003 Acc: 1.0000
+Phase:validate, epoch loss: 4.6171 Acc: 0.4144
+Epoch: 80/99
+----------
+Phase:train, epoch loss: 0.0003 Acc: 1.0000
+Phase:validate, epoch loss: 4.7773 Acc: 0.4099
+Epoch: 81/99
+----------
+Phase:train, epoch loss: 0.0002 Acc: 1.0000
+Phase:validate, epoch loss: 4.6937 Acc: 0.4054
+Epoch: 82/99
+----------
+Phase:train, epoch loss: 0.0002 Acc: 1.0000
+Phase:validate, epoch loss: 4.6244 Acc: 0.4144
+Epoch: 83/99
+----------
+Phase:train, epoch loss: 0.0002 Acc: 1.0000
+Phase:validate, epoch loss: 4.6667 Acc: 0.4144
+Epoch: 84/99
+----------
+Phase:train, epoch loss: 0.0002 Acc: 1.0000
+Phase:validate, epoch loss: 4.7160 Acc: 0.4144
+Epoch: 85/99
+----------
+Phase:train, epoch loss: 0.0002 Acc: 1.0000
+Phase:validate, epoch loss: 4.7513 Acc: 0.4054
+Epoch: 86/99
+----------
+Phase:train, epoch loss: 0.0002 Acc: 1.0000
+Phase:validate, epoch loss: 4.9162 Acc: 0.4144
+Epoch: 87/99
+----------
+Phase:train, epoch loss: 0.0002 Acc: 1.0000
+Phase:validate, epoch loss: 4.8535 Acc: 0.4189
+Epoch: 88/99
+----------
+Phase:train, epoch loss: 0.0002 Acc: 1.0000
+Phase:validate, epoch loss: 4.7999 Acc: 0.4054
+Epoch: 89/99
+----------
+Phase:train, epoch loss: 0.0002 Acc: 1.0000
+Phase:validate, epoch loss: 4.9325 Acc: 0.4009
+Epoch: 90/99
+----------
+Phase:train, epoch loss: 0.0002 Acc: 1.0000
+Phase:validate, epoch loss: 4.7304 Acc: 0.4144
+Epoch: 91/99
+----------
+Phase:train, epoch loss: 0.0002 Acc: 1.0000
+Phase:validate, epoch loss: 4.7403 Acc: 0.4189
+Epoch: 92/99
+----------
+Phase:train, epoch loss: 0.0002 Acc: 1.0000
+Phase:validate, epoch loss: 4.9470 Acc: 0.4009
+Epoch: 93/99
+----------
+Phase:train, epoch loss: 0.0002 Acc: 1.0000
+Phase:validate, epoch loss: 4.8420 Acc: 0.4189
+Epoch: 94/99
+----------
+Phase:train, epoch loss: 0.0002 Acc: 1.0000
+Phase:validate, epoch loss: 4.8822 Acc: 0.4054
+Epoch: 95/99
+----------
+Phase:train, epoch loss: 0.0001 Acc: 1.0000
+Phase:validate, epoch loss: 4.8159 Acc: 0.4009
+Epoch: 96/99
+----------
+Phase:train, epoch loss: 0.0002 Acc: 1.0000
+Phase:validate, epoch loss: 4.8759 Acc: 0.4054
+Epoch: 97/99
+----------
+Phase:train, epoch loss: 0.0001 Acc: 1.0000
+Phase:validate, epoch loss: 5.0518 Acc: 0.4144
+Epoch: 98/99
+----------
+Phase:train, epoch loss: 0.0001 Acc: 1.0000
+Phase:validate, epoch loss: 4.9349 Acc: 0.4189
+Epoch: 99/99
+----------
+Phase:train, epoch loss: 0.0001 Acc: 1.0000
+Phase:validate, epoch loss: 4.7139 Acc: 0.4279
+Training complete in 7014m 24s
+Best val acc: 0.522523
